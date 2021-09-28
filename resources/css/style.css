@@ -16,3 +16,8 @@ body{
     font-size: 42px;
     color: #ffffff;
 }
+
+.paragraph-text{
+    font-size: 21px;
+    color: gray;
+}
